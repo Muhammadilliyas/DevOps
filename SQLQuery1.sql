@@ -8,7 +8,7 @@ departmentName VARCHAR(20) NOT NULL,
 departmentLocation VARCHAR(40) NOT NULL
 );
 
-CREATE TABLE employee_info(
+CREATE TABLE emploeeyee_info(
 empID INTEGER PRIMARY KEY,
 empName VARCHAR(20) NOT NULL,
 empSalary DECIMAL(10,2) NOT NULL,
