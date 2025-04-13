@@ -1,0 +1,10 @@
+C:\Users\DC\Documents\Tasks\labtask\labtask\bin\Debug\labtask.exe.config
+C:\Users\DC\Documents\Tasks\labtask\labtask\bin\Debug\labtask.exe
+C:\Users\DC\Documents\Tasks\labtask\labtask\bin\Debug\labtask.pdb
+C:\Users\DC\Documents\Tasks\labtask\labtask\obj\Debug\labtask.csproj.AssemblyReference.cache
+C:\Users\DC\Documents\Tasks\labtask\labtask\obj\Debug\labtask.Form1.resources
+C:\Users\DC\Documents\Tasks\labtask\labtask\obj\Debug\labtask.Properties.Resources.resources
+C:\Users\DC\Documents\Tasks\labtask\labtask\obj\Debug\labtask.csproj.GenerateResource.cache
+C:\Users\DC\Documents\Tasks\labtask\labtask\obj\Debug\labtask.csproj.CoreCompileInputs.cache
+C:\Users\DC\Documents\Tasks\labtask\labtask\obj\Debug\labtask.exe
+C:\Users\DC\Documents\Tasks\labtask\labtask\obj\Debug\labtask.pdb

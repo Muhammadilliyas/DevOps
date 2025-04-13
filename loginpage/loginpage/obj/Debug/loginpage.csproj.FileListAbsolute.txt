@@ -1,0 +1,11 @@
+C:\Users\DC\Documents\Tasks\loginpage\loginpage\bin\Debug\loginpage.exe.config
+C:\Users\DC\Documents\Tasks\loginpage\loginpage\bin\Debug\loginpage.exe
+C:\Users\DC\Documents\Tasks\loginpage\loginpage\bin\Debug\loginpage.pdb
+C:\Users\DC\Documents\Tasks\loginpage\loginpage\obj\Debug\loginpage.csproj.AssemblyReference.cache
+C:\Users\DC\Documents\Tasks\loginpage\loginpage\obj\Debug\loginpage.Form1.resources
+C:\Users\DC\Documents\Tasks\loginpage\loginpage\obj\Debug\loginpage.Form2.resources
+C:\Users\DC\Documents\Tasks\loginpage\loginpage\obj\Debug\loginpage.Properties.Resources.resources
+C:\Users\DC\Documents\Tasks\loginpage\loginpage\obj\Debug\loginpage.csproj.GenerateResource.cache
+C:\Users\DC\Documents\Tasks\loginpage\loginpage\obj\Debug\loginpage.csproj.CoreCompileInputs.cache
+C:\Users\DC\Documents\Tasks\loginpage\loginpage\obj\Debug\loginpage.exe
+C:\Users\DC\Documents\Tasks\loginpage\loginpage\obj\Debug\loginpage.pdb
